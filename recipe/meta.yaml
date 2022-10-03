@@ -1,5 +1,5 @@
 {% set name = "flake8-broken-line" %}
-{% set version = "0.5.0" %}
+{% set version = "0.6.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/flake8-broken-line-{{ version }}.tar.gz
-  sha256: 7c98de9dd1385b71e888709c7f2aee3f0514107ecb5875bc95d0c03392191c97
+  sha256: a02268f11a18837c83c59013a36cc00fee9e17a042745cc0c9895f1c9f6acc16
 
 build:
   number: 0
