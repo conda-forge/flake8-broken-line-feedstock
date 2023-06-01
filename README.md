@@ -1,11 +1,11 @@
-About flake8-broken-line
-========================
+About flake8-broken-line-feedstock
+==================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/flake8-broken-line-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/wemake-services/flake8-broken-line
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/flake8-broken-line-feedstock/blob/main/LICENSE.txt)
 
 Summary: Flake8 plugin to forbid backslashes for line breaks
 
